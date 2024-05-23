@@ -34,6 +34,7 @@ body {
 	height: calc(100vh - 60px); 
 	max-width: 100%; 
 	margin: 0 auto; 
+
 }
 
 .inner-container {
@@ -42,6 +43,7 @@ body {
 	padding: 30px;
 	text-align: center;
 	width: 70%; 
+
 }
 
 .text-box {
@@ -50,6 +52,7 @@ body {
 	background-color: rgba(255, 255, 255, 0.1);
 	border-radius: 15px;
 	margin-top: 20px;
+	border: 1px solid white;
 }
 
 .brand {
@@ -61,6 +64,7 @@ body {
 	font-weight: bold;
 	background-color: rgba(255, 255, 255, 0.1);
 	border-radius: 24px;
+
 }
 
 .brand img {
